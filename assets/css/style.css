@@ -660,7 +660,7 @@ section {
 # About Us
 --------------------------------------------------------------*/
 .about {
-    background-color: #f8fcf9;
+    background-color: #fbfbfb;
 }
 
 .about .content h3 {
@@ -680,7 +680,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #5cb874;
+  color: #fff;
 }
 
 .about .content p:last-child {
